@@ -1,6 +1,6 @@
 #PolygenJS
 
-A simple polygon generater using html canvas.
+A simple polygon generator using html canvas.
 
 Notice : **You need to require jquery first**
 ##Get Started
