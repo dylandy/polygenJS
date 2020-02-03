@@ -1,9 +1,9 @@
-#PolygenJS
+# PolygenJS
 
 A simple polygon generator using html canvas.
 
 Notice : **You need to require jquery first**
-##Get Started
+## Get Started
 
 ```
 <div id="test"></div>
@@ -17,7 +17,7 @@ Notice : **You need to require jquery first**
   )
 </script>
 ```
-##Options
+## Options
 
 The first three options which don't have default values are neccessary.
 
@@ -33,6 +33,6 @@ The first three options which don't have default values are neccessary.
 | line_color      | black          | String    | the line color for polygon                     |
 | line_width      | 1              | Integer   | the width of polygon                           |
 
-##LICENSE
+## LICENSE
 This project is licensed under MIT License. Please check out the LICENSE.md for further detail.
 
